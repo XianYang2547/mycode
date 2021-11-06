@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="学习日志.day31_循环导入2.day31_循环导入" />
+          <option value="pygame.sprite.Sprite.move" />
+          <option value="ch04.gradient_method.gradient_2d" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
